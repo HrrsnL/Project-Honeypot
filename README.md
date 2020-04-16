@@ -1,4 +1,5 @@
-# Weeks-10-11-Project-Honeypot
+# Weeks 10 & 11 Project: Honeypot
+
 Harrison Luu
 
 Honeypots deployed:
