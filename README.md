@@ -50,11 +50,11 @@ Issues encountered:
 - Celery is running so password retrieval should work but it doesn't for unspecified reason.
 ![celery is running](https://user-images.githubusercontent.com/43581439/79625537-be86bc80-80f7-11ea-832f-a53a80b6d7f1.png)
 
-- Everything is running as it should be so why can't I log into the MHN web app
+- Everything is running as it should be so why can't I log into the MHN web app?
 
 ![making sure everything is working](https://user-images.githubusercontent.com/43581439/79625540-bfb7e980-80f7-11ea-8511-eef72fd9ead9.png)
 
-- After hours of starting over and research over a few days, I decided to settle for partial credit from Overview & Setup.
+- After hours of starting over and research over a few days, I decided to wipe the project and settle for partial credit from Overview & Setup.
 
 ![cleanup](https://user-images.githubusercontent.com/43581439/79625539-bf1f5300-80f7-11ea-9ce4-0d70a7b61099.png)  
   
