@@ -3,7 +3,7 @@
 Harrison Luu
 
 - GCP is set up with firewall setup
-![GCP is set up](https://user-images.githubusercontent.com/43581439/79606489-ae52eb00-80bf-11ea-8428-5d74db2ea602.png)
+![GCP is set up](https://user-images.githubusercontent.com/43581439/79626137-d2342200-80fb-11ea-9909-85a92ec0bc68.png)
 
 
 
